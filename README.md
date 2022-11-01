@@ -1,6 +1,6 @@
 # Instrucciones para ejecutar este proyecto
 
-- Clonar el proyecto y cambiar de rama
+- Clonar el proyecto y cambiar de rama nueva
 ```bash
 git clone https://github.com/profecoder/django-coderhouse-project.git
 
